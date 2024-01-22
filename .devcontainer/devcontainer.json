@@ -3,7 +3,7 @@
   "features": {
   },
   "portsAttributes": {
-    "5173" {
+    "5173": {
       "label": "vite port",
       "onAutoForward": "openPreview"
     }
